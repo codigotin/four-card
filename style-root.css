@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:wght@200;400;600&display=swap');
+
+:root {
+
+    --pink: #EA5353;
+    --cyan: #45D3D3;
+    --yellow: #FCAF4A;
+    --blue: #549EF2;
+    --darkgrey: #4C4E61;
+    --grey: #A3A5AE;
+    --lightgrey: #FAFAFA;
+
+    /*--- FONT SIZES*/
+    --font-size-15: 1rem;
+
+}
+
+
+/*---- GENERAL */
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 15px;
+}
+
+/*---- TYPOGRAFY*/
+.poppins-200 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.poppins-400 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-600 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
